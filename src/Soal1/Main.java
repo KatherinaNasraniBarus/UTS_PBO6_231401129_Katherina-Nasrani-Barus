@@ -36,7 +36,7 @@ public class Main {
 
                 case 2:
                     System.out.println("ID karyawan yang ingin dihapus : ");
-                    peru
+
             }
 
         }

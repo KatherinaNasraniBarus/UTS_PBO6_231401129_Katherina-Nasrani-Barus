@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="649ed3ac-ac13-4848-b7a1-e081bc5385f4" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/META-INF/UTS PBO.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal1/Karyawan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal1/Perusahaan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal2/Kendaraan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal3/LotreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UTS PBO/Soal3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soal2/Kendaraan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UTS PBO/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal1/Karyawan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal1/Karyawan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal1/Perusahaan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal1/Perusahaan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal2/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal3/LotreBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal3/LotreBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soal3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal3/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Acer\IdeaProjects\UTS PBO\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2wSMJGVdgYKcAVnc9VcnvMA5jrk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\UTS PBO\src" />
+      <recent name="C:\Users\Acer\IdeaProjects\UTS PBO\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Soal2.Main" />
+      <module name="UTS PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Soal2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Soal3.Main" />
+      <module name="UTS PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Soal3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Soal1.Main" />
+      <module name="UTS PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Soal1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649ed3ac-ac13-4848-b7a1-e081bc5385f4" name="Default Changelist" comment="" />
+      <created>1746030447136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746030447136</updated>
+    </task>
+    <task id="LOCAL-00001" summary="coba">
+      <created>1746034671396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034671396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="coba">
+      <created>1746034924995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746034924995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coba" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="0" key="CommitChangelistDialog2" timestamp="1746113006126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1746113006126" />
+    <state width="623" height="163" key="GridCell.Tab.0.bottom" timestamp="1746113006651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1746113006651" />
+    <state width="623" height="163" key="GridCell.Tab.0.center" timestamp="1746113006651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1746113006651" />
+    <state width="623" height="163" key="GridCell.Tab.0.left" timestamp="1746113006651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1746113006651" />
+    <state width="623" height="163" key="GridCell.Tab.0.right" timestamp="1746113006651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1746113006651" />
+    <state x="450" y="0" width="916" height="728" key="SettingsEditor" timestamp="1746034363376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1746034363376" />
+    <state x="550" y="96" key="Vcs.Push.Dialog.v2" timestamp="1746035600556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1746035600556" />
+    <state x="838" y="263" key="git4idea.ui.GitStashDialog" timestamp="1746034599611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="838" y="263" key="git4idea.ui.GitStashDialog/0.0.1366.728@0.0.1366.728" timestamp="1746034599611" />
+  </component>
+</project>

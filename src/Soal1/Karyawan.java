@@ -1,21 +1,26 @@
 package Soal1;
 
 public class Karyawan {
-    public String id;
     private String id;
-    private String nama;
-    private String posisi;
-    private double gaji;
+    String nama, posisi;
+    double gaji;
 
+    // Konstruktor
     public Karyawan(String id, String nama, String posisi, double gaji){
-        this.id=id;
+        this.id = id;
         this.nama = nama;
         this.posisi = posisi;
-        setGaji(gaji);
+        this.gaji = (gaji);
+
+    }
+    // Getter untuk ID agar tetap bisa diakses meski private
+    public String getId() {
+        return id;
     }
 
-    public String getId(){
-        return id;
+    // menampilkan informasi lengkap karyawan
+    public void tampilkanInfo(){
+        System.out.println("ID : "+ id + " | Nama : " + nama + " | posisi : " + posisi + " | Gaji : Rp " + gaji);
     }
 
 }
